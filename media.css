@@ -1,0 +1,151 @@
+@media (max-width:599px) {
+    section.landing-page .container nav ul li{
+        font-size:10px;
+        padding:0;
+        margin-right:10px;
+        line-height: 30px;
+    }
+}
+
+@media(max-width:599px){
+    section.landing-page .container img{
+        margin-left:15px;
+    }
+}
+
+@media(max-width:599px) {
+    .content h2{
+        font-size:20px;
+      
+    
+    }
+}
+
+@media(max-width:599px){
+    .content h1{
+        font-size:30px;
+    }
+}
+
+@media (max-width:599px){
+    section.services h1{
+        font-size:20px;
+    }
+}
+
+@media (max-width:599px){
+    section.services .wrapper{
+        margin-left:0;
+        width:100%;
+        display: inline-block;
+    }
+}
+
+@media(max-width:599px){
+    section.our-portfolio h1{
+        font-size:20px;
+    }
+}
+
+@media(max-width:599px){
+    section.our-portfolio .big-one{
+        text-align:inherit;
+    }
+}
+
+@media(max-width:599px){
+    section.about-us h1 {
+        font-size:20px;
+    }
+}
+
+@media(max-width:599px){
+    section.amazing-team h1 {
+        font-size:20px;
+    }
+}
+
+@media(max-width:599px){
+    section.amazing-team .team-picture .picture {
+        width:75px;
+        height:75px;
+       display: none;
+    }
+}
+
+@media(max-width:599px){
+    section.amazing-team .sponsors img{
+       padding:50px;
+    }
+}
+
+@media(max-width:599px){
+    section.contact-us h1 {
+       font-size:20px;
+        padding-top:20px;
+    }
+}
+
+@media(max-width:599px){
+    section.contact-us .inputs {
+        margin-left:0;
+        margin-top:0;
+        padding: 4px;
+    padding-right: 40px;
+    margin-left: 60px;
+    }
+}
+
+@media(max-width:599px){
+    section.contact-us .input[placeholder]{
+        padding:4px;
+        margin-left:20px;
+        
+    } 
+}
+
+@media(max-width:599px){
+    section.contact-us .text-area {
+     margin-top:10px;
+        padding-left:20px;
+    }
+}
+
+@media(max-width:599px){
+    section.contact-us .area {
+    padding-bottom:70px;
+       
+        padding-right:50px;
+        margin-right:65px;
+    }
+}
+
+@media(max-width:599px) {
+    section.contact-us p {
+        padding-top:0;
+    }
+}
+@media(max-width:599px){
+    section.contact-us button{
+        width: 150px;
+    font-size: 14px;
+    height: 35px;
+    margin-top: 30px;
+    }
+}
+
+@media(max-width:599px){
+    .bottom-header{
+        text-align:-webkit-center;
+    }
+
+@media(max-width:599px){
+    .bottom-header img {
+        margin-left:0px;
+        margin-bottom: 0px;
+    }
+
+@media(max-width:599px){
+   .bottom-header .footer {
+        margin-left:0px;
+    }
